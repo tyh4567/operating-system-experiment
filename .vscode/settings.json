@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "threadpool.h": "c",
+        "sharedqueue.h": "c",
+        "cache.h": "c",
+        "palloc.h": "c"
+    }
+}

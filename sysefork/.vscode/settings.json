@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "semop.h": "c",
+        "shmop.h": "c",
+        "webtodo.h": "c",
+        "shm.h": "c"
+    }
+}
